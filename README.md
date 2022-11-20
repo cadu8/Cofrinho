@@ -1,5 +1,6 @@
 # Cofrinho
 Projeto da faculdade feito em Java. 
+
 FUNÇÕES:
 - adiciona moedas, sendo elas: Real, Dolar ou Euro
 - remove moedas
